@@ -9,7 +9,7 @@ This project demonstrates a Deep Q-Network (DQN) agent trained to play the Atari
 ```
 atari-dqn/
 │
-├── Models/                 # Trained models
+├── models/                 # Trained models
 │   └── dqn_breakout_gpu.zip
 ├── breakout_train.py       # Training script
 ├── watch_agent.py          # Watch the trained agent play
