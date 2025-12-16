@@ -1,0 +1,9 @@
+gymnasium[atari]
+ale-py
+stable-baselines3
+torch
+numpy
+opencv-python
+imageio
+imageio-ffmpeg
+matplotlib
