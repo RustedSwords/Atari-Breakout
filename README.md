@@ -61,4 +61,3 @@ The display shows **episode number** and **current reward**. The arrow key overl
 * Training uses `render_mode="rgb_array"` for speed.
 * Watching uses OpenCV (`cv2.imshow`) for resized, clean display.
 * Models are saved in `Models/`.
-* Media outputs (GIF/MP4) can be added to `media/` for GitHub demos.
