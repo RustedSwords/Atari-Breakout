@@ -46,7 +46,7 @@ Controls:
 
 The display shows **episode number** and **current reward**. The arrow key overlay is removed for a clean view.
 
-![Breakout Demo](media/breakout_demo.gif)
+![Breakout Demo](media/breakout.gif)
 
 ## Dependencies
 
