@@ -2,6 +2,8 @@
 
 This project demonstrates a Deep Q-Network (DQN) agent trained to play the Atari game Breakout using **Stable-Baselines3** and **PyTorch with GPU acceleration**.
 
+![Breakout Demo](media/breakout.gif)
+
 ## Project Structure
 
 ```
@@ -45,8 +47,6 @@ Controls:
 * `s` → Slower playback
 
 The display shows **episode number** and **current reward**. The arrow key overlay is removed for a clean view.
-
-![Breakout Demo](media/breakout.gif)
 
 ## Dependencies
 
